@@ -1,0 +1,32 @@
+# CLASSES
+
+
+# LAWS
+
+= 1 =
+
+[P T K] > [b d g]
+
+= 2 =
+
+[b d g] > [p t k] / @tone[¹]_
+[b d g] > [pʰ tʰ kʰ] / @tone[² ³ ⁴]_
+# FORWARD
+
+## TIERS
+
+segments
+@tone
+
+## WORDS
+
+P a ¹
+
+T u ²
+# BACKWARD
+
+## TIERS
+
+
+
+## WORDS
