@@ -1,0 +1,45 @@
+# CLASSES
+
+
+# LAWS
+
+= 1 =
+a > o*
+
+= 2 =
+o > u*
+
+= 3 =
+u > a*
+
+= 4 =
+o* > o
+
+= 5 =
+
+u* > u
+
+= 6 =
+
+a* > a
+
+
+
+# FORWARD
+
+## TIERS
+
+
+
+## WORDS
+
+b a d u g o
+# BACKWARD
+
+## TIERS
+
+
+
+## WORDS
+
+p a d a
