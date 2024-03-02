@@ -1,0 +1,24 @@
+# CLASSES
+
+
+# LAWS
+
+ō > u / @stress[0]_ $
+# FORWARD
+
+## TIERS
+
+segments
+stress
+
+## WORDS
+
+m a r k ō
+1 1 1 0 0
+# BACKWARD
+
+## TIERS
+
+
+
+## WORDS
