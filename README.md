@@ -10,4 +10,4 @@ Please cite the paper draft (currently under review):
 
 Please also cite the MISOL application:
 
-> List, Johann-Mattis (2023): MISoL: Modeling and Inferring Sound Laws with an Interactive Web-Application `[`Software Tool: Version 0.2`]`. Passau: Chair of Multilingual Computational Linguistics at the University of Passau. [https://misol.edictor.org](https://misol.edictor.org).
+> List, Johann-Mattis (2024): MISoL: Modeling and Inducing Sound Laws with an Interactive Web-Application `[`Software Tool: Version 0.2`]`. Passau: Chair of Multilingual Computational Linguistics at the University of Passau. [https://misol.edictor.org](https://misol.edictor.org).
